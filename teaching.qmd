@@ -1,0 +1,32 @@
+---
+title: "Teaching & Service"
+---
+
+## Teaching and capacity building
+
+**Coordinator, Geospatial Modelling for Public Health Applications Workshop** (MAP, 2024 to present)\
+An annual workshop on spatial modelling with INLA, now in its third cohort, drawing hundreds of applicants and participants from over seven African countries. I also built the reproducible selection pipeline used to choose each cohort.
+
+**Instructor, MAP Early Career Researcher Programme**\
+Teach data management and functional programming in R in MAP's six-month programme.
+
+**Trainer, AMMnet Tanzania "Introduction to R Training"** (October 2026)\
+Taught reproducible workflows with R Markdown to about 30 students, lecturers and public health specialists. Received a Certificate of Appreciation.
+
+**Earlier teaching**\
+Trained data clerks, data managers and research nurses in database practice (MITU, MUHAS), and lectured in computing at the University of Dar es Salaam.
+
+## Professional service
+
+- **Event Moderator**, 2nd International Biometric Society (IBS) Tanzania Symposium, "Application of AI in Healthcare Research" (virtual, November 2026)
+
+## Memberships
+
+- Applied Malaria Modeling Network (AMMnet), member and technical workgroup participant
+- International Biometric Society, Tanzania Region
+- American Society of Tropical Medicine and Hygiene (ASTMH)
+
+## Awards
+
+- HIV Research Trust Scholarship (GBP 10,000) for the LSHTM Advanced Course in Epidemiological Analysis
+- Scholarship, International Summer School Uganda on Survey Methodology and Data Management (2021)

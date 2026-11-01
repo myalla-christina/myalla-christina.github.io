@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+$primary: #1f3a5f;
+$navbar-bg: #1f3a5f;
+$navbar-fg: #ffffff;
+$link-color: #1f6f8b;
+$body-color: #22303c;
+$font-family-sans-serif: "Source Sans 3", "Segoe UI", Roboto, sans-serif;
+$headings-font-family: "Source Serif 4", Georgia, serif;
+$headings-color: #1f3a5f;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:wght@600&display=swap');
+
+body { line-height: 1.65; }
+h2 { border-bottom: 2px solid #e3e9ef; padding-bottom: .3rem; margin-top: 2.2rem; }
+
+.tagline { font-size: 1.15rem; color: #4a6075; margin-top: -.4rem; }
+
+.card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.1rem; margin: 1rem 0 2rem; }
+.pcard { border: 1px solid #dde5ec; border-radius: 10px; padding: 1.1rem 1.2rem; background: #fbfcfd; }
+.pcard h4 { margin: 0 0 .35rem; font-size: 1.08rem; }
+.pcard p { margin: .3rem 0; font-size: .96rem; }
+.pcard .tags { font-size: .8rem; color: #5b7083; margin-top: .5rem; }
+.badge-status { display: inline-block; font-size: .72rem; font-weight: 600; padding: .1rem .5rem; border-radius: 999px; background: #e6f0f6; color: #1f3a5f; margin-bottom: .4rem; }
+.badge-live { background: #e3f4e8; color: #1d6b35; }
+
+.role { margin-bottom: 1.6rem; }
+.role h3 { margin-bottom: .1rem; font-size: 1.2rem; }
+.role .meta { color: #5b7083; font-size: .95rem; margin-bottom: .4rem; }
+
+.pub { margin-bottom: 1rem; }
+.pub .venue { font-style: italic; }

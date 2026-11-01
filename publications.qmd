@@ -1,0 +1,31 @@
+---
+title: "Publications"
+subtitle: "Full record on [ORCID](https://orcid.org/0009-0005-3917-7203)"
+---
+
+## Peer-reviewed articles
+
+::: {.pub}
+Manyangu GJ, Wajanga B, Desderius B, Fadhili S, Willkens M, **Myalla C**, Kisigo GA, Praygod G, Lee MH, Peck RN, Kalluvya S, Yan LD. Effect of dolutegravir on "Life's Simple 7" cardiovascular risk factors: a longitudinal analysis from Tanzania. [HIV Medicine]{.venue}, 2026. [doi:10.1111/hiv.70267](https://doi.org/10.1111/hiv.70267)
+:::
+
+::: {.pub}
+Reis KG, Desderius B, Kingery J, Kirabo A, Makubi A, **Myalla C**, Lee MH, Kapiga S, Peck RN. Blood pressure, T cells, and mortality in people with HIV in Tanzania during the first 2 years of antiretroviral therapy. [Journal of Clinical Hypertension]{.venue}, 2020; 22(9): 1554-1562. [doi:10.1111/jch.13975](https://doi.org/10.1111/jch.13975)
+:::
+
+## Under review
+
+::: {.pub}
+Kreniske J, Ruselu G, Kaji A, Samwel H, **Myalla C**, Liseki E, Kwiolecha E, Desderius B, Lee MH, Zifodya JS, Kaner RJ, Fitzgerald DW, Peck RN. COPD in Tanzanian never smokers with and without HIV.
+:::
+
+## Conference presentations
+
+::: {.pub}
+**Myalla C**, Kafwimi N, Kafwanka P, Diao O, Vargas C, Van Den Berg M, Ketende S, Amratia P, Rumisha S. Flood exposure and disruption of geographic access to essential health services in Tanzania.
+
+- 21st International Congress on Infectious Diseases (ICID), Madrid, 2026 (oral)
+- ASTMH Annual Meeting, 2026
+- NIMR Annual Joint Scientific Conference, 2026
+- 2nd Primary Health Care Congress, 2026
+:::

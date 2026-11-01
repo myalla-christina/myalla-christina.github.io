@@ -1,0 +1,64 @@
+---
+title: "Experience"
+subtitle: "Over 10 years in health research data across Tanzania and sub-Saharan Africa"
+---
+
+::: {.role}
+### Research Data Scientist
+[Malaria Atlas Project, East Africa Node · Ifakara Health Institute / The Kids Research Institute Australia · 2025 to present]{.meta}
+
+- Build reproducible ETL pipelines that harmonise multi-country spatial datasets (facility locations, population, service availability).
+- Run travel-time and flood-impact accessibility modelling using friction surfaces, road networks and flood hazard layers.
+- Develop Shiny dashboards and Quarto portals for National Malaria Control Programmes.
+- Lead the Data Engineering Team and train early career researchers.
+:::
+
+::: {.role}
+### Data Analyst Consultant
+[Weill Cornell Medicine / Catholic University of Health and Allied Sciences · Mwanza · 2024 to 2025]{.meta}
+
+- Managed and analysed spirometry and respiratory quality-of-life data for a study of respiratory dysfunction in people with and without HIV.
+:::
+
+::: {.role}
+### National Data Analyst, WHO EMOTIVE Project
+[Muhimbili University of Health and Allied Sciences · Dar es Salaam · 2020 to 2023]{.meta}
+
+- Built REDCap databases and a monitoring dashboard for a multi-country trial.
+- Wrote a data-handling SOP adopted by five countries; trained 56 research nurses.
+:::
+
+::: {.role}
+### Research Scientist Intern, SHLC Project
+[Ifakara Health Institute · Dar es Salaam · 2021 to 2022]{.meta}
+
+- Analysed regional non-communicable disease trends in R and Stata; built Tableau visualisations and co-authored reports.
+:::
+
+::: {.role}
+### Data Manager
+[Mwanza Intervention Trials Unit · Mwanza · 2015 to 2020]{.meta}
+
+- Configured GPS devices and managed household geolocation data collection, followed by spatial cleaning, mapping and exploratory analysis.
+- Built validated trial databases (OpenClinica, REDCap, ODK), reaching 98% data integrity and over 97% participant retention.
+:::
+
+::: {.role}
+### Tutor
+[University of Dar es Salaam Computing Centre · 2012 to 2015]{.meta}
+
+- Taught computing mathematics, programming and systems analysis and design.
+:::
+
+## Skills
+
+**Programming:** R (advanced), Python, SQL, Stata\
+**Geospatial:** terra, sf, QGIS, Google Earth Engine, travel-time modelling, GraphHopper and OSRM routing, flood hazard analysis\
+**Data engineering:** ETL design, DuckDB, GeoParquet, GitHub Actions, REDCap, ODK\
+**Visualisation:** Shiny, Quarto, ggplot2, Tableau
+
+## Professional training
+
+- Advanced Course in Epidemiological Analysis, LSHTM (2023), funded by an HIV Research Trust Scholarship
+- Survey Methodology and Data Management, GESIS / MRC Uganda (2022)
+- Using Stata for Health Research, MRC/UVRI and LSHTM Uganda (2019)

@@ -1,0 +1,40 @@
+---
+title: "Christina Myalla"
+subtitle: "Research Data Scientist · Geospatial Health · Data Engineering"
+image: images/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/christina-myalla-bb707094
+    - text: ORCID
+      href: https://orcid.org/0009-0005-3917-7203
+    - icon: envelope
+      text: Email
+      href: mailto:myallachristina@gmail.com
+---
+
+I am a Research Data Scientist at the **Malaria Atlas Project (MAP) East Africa Node**, based at Ifakara Health Institute in Dar es Salaam, Tanzania, with a joint affiliation to The Kids Research Institute Australia. I lead the Node's Data Engineering Team and coordinate MAP's Geospatial Modelling training programme.
+
+My work turns messy, multi-source health data into spatial evidence that health programmes can act on. I build reproducible pipelines that harmonise health facility data across sub-Saharan Africa, model how long it takes people to reach care, and measure how climate hazards such as floods disrupt that access. I then package the results as dashboards and portals for National Malaria Control Programmes.
+
+Before MAP, I spent over a decade managing data for clinical trials and cohort studies in Tanzania, including household GPS data collection, multi-country trial databases and data quality systems.
+
+## Research interests
+
+- Geographic accessibility and travel-time modelling for health services
+- Climate hazards (floods) and disruption of access to care
+- Spatial data science and Earth observation data for public health
+- Reproducible data pipelines and decision tools for malaria programmes
+
+## Education
+
+**MSc Health Informatics**, University of Dar es Salaam, 2025\
+**BSc Information Systems**, University of Dodoma, 2011
+
+## Countries I work with
+
+Tanzania · Uganda · Nigeria · Benin · Burkina Faso · Zambia · Mozambique

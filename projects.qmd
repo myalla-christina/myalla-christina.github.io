@@ -1,0 +1,93 @@
+---
+title: "Projects"
+subtitle: "Selected research, data products and tools"
+---
+
+## Research
+
+::: {.card-grid}
+
+::: {.pcard}
+[Conference presentations 2026]{.badge-status}
+
+#### Flood exposure and access to essential health services in Tanzania
+
+How much longer does it take to reach a health facility when rivers flood? I combined JRC GloFAS flood hazard maps, OpenStreetMap road networks and travel-time modelling across about 11,900 essential health facilities to identify the facilities and districts where flooding cuts people off from care.
+
+[R · terra · sf · GraphHopper · GloFAS · WorldPop]{.tags}
+:::
+
+::: {.pcard}
+[Ongoing]{.badge-status}
+
+#### Travel-time and accessibility modelling across Africa
+
+Applying MAP's travel-time framework to model access to health facilities in Nigeria, Uganda, Burkina Faso and Tanzania. I built an R Shiny interface so non-programmers can run the pipeline, and the outputs have informed community health worker distribution and facility planning.
+
+[R Shiny · friction surfaces · Google Earth Engine]{.tags}
+:::
+
+:::
+
+## Data products and dashboards
+
+::: {.card-grid}
+
+::: {.pcard}
+[Live]{.badge-status .badge-live}
+
+#### HealthScope
+
+A health facility intelligence portal for sub-Saharan Africa. It sits on an ETL pipeline I designed that harmonises national facility lists into the **Sub-Saharan Africa Harmonised Health Facility Database** (about 78,000 facilities and 300,000 service records, stored in DuckDB and GeoParquet), with tabs on services, access and population reach.
+
+[Visit HealthScope](https://map-data-engineering.github.io/healthscope-portal)
+
+[R · DuckDB · GeoParquet · Quarto · GitHub Actions]{.tags}
+:::
+
+::: {.pcard}
+[Country dashboards]{.badge-status}
+
+#### Malaria risk dashboards
+
+Interactive dashboards for National Malaria Control Programmes that bring crude, adjusted and modelled malaria incidence and prevalence together with environmental covariates and seasonality, ending in composite risk maps for sub-national tailoring.
+
+<!-- TODO: add public links once confirmed -->
+Burkina Faso · Benin · Mozambique
+
+[R Shiny · bslib · WHO SNT indicators]{.tags}
+:::
+
+::: {.pcard}
+[Training tools]{.badge-status}
+
+#### Modelling transparency dashboards
+
+Three training dashboards (Mozambique, Angola, Benin) that walk programme staff step by step through how MAP produces its malaria estimates, from routine data to modelled outputs.
+
+<!-- TODO: add public links once confirmed -->
+
+[R Shiny · Quarto]{.tags}
+:::
+
+::: {.pcard}
+[In development]{.badge-status}
+
+#### Malaria country profiles portal
+
+A standardised, open-access Quarto portal summarising malaria epidemiology, environmental and entomological data for 11 African countries. Researchers submit data through GitHub, and automated workflows rebuild the site.
+
+[Quarto · GitHub Actions · R]{.tags}
+:::
+
+::: {.pcard}
+[In development]{.badge-status}
+
+#### WapiCare: nearest health facility finder
+
+A mobile web app for Tanzania's flood season. A user shares their location and gets the nearest health facility, the route by transport mode and the services available there. I lead the project and own data preparation.
+
+[PWA · routing · health facility data]{.tags}
+:::
+
+:::

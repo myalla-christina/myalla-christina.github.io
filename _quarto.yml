@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Christina Myalla"
+  site-url: "https://myalla-christina.github.io"
+  description: "Research Data Scientist working on geospatial health data, accessibility modelling and malaria analytics in sub-Saharan Africa."
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: experience.qmd
+        text: Experience
+      - href: teaching.qmd
+        text: Teaching & Service
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/christina-myalla-bb707094
+        aria-label: LinkedIn
+      - text: "ORCID"
+        href: https://orcid.org/0009-0005-3917-7203
+  page-footer:
+    center: "© 2026 Christina Myalla · Dar es Salaam, Tanzania"
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    toc: false
+    page-layout: article
+    smooth-scroll: true
