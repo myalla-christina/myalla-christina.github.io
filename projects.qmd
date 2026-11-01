@@ -52,8 +52,10 @@ A health facility intelligence portal for sub-Saharan Africa. It sits on an ETL 
 
 Interactive dashboards for National Malaria Control Programmes that bring crude, adjusted and modelled malaria incidence and prevalence together with environmental covariates and seasonality, ending in composite risk maps for sub-national tailoring.
 
-<!-- TODO: add public links once confirmed -->
-Burkina Faso · Benin · Mozambique
+[View the Benin dashboard](https://map-visualizations.shinyapps.io/malaria-benin_v2/)
+
+<!-- TODO: add Burkina Faso and Mozambique links once confirmed -->
+Also built for Burkina Faso and Mozambique.
 
 [R Shiny · bslib · WHO SNT indicators]{.tags}
 :::

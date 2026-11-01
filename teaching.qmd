@@ -10,6 +10,9 @@ An annual workshop on spatial modelling with INLA, now in its third cohort, draw
 **Instructor, MAP Early Career Researcher Programme**\
 Teach data management and functional programming in R in MAP's six-month programme.
 
+**Instructor, AMMnet Hackathon: "Building an Interactive Malaria Dashboard with R Shiny"** (online, July 2026)\
+Led a hands-on session for advanced R users on building an interactive malaria dashboard with Shiny and bslib, from reactive inputs and outputs to deployment on shinyapps.io. [Event page](https://www.ammnet.org/seminars/hackathon-building-an-interactive-malaria-dashboard-with-r-shiny)
+
 **Trainer, AMMnet Tanzania "Introduction to R Training"** (October 2026)\
 Taught reproducible workflows with R Markdown to about 30 students, lecturers and public health specialists. Received a Certificate of Appreciation.
 
