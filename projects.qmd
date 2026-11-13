@@ -89,7 +89,7 @@ A standardised, open-access Quarto portal summarising malaria epidemiology, envi
 
 #### WapiCare: nearest health facility finder
 
-A mobile web app for Tanzania's flood season. A user shares their location and gets the nearest health facility, the route by transport mode and the services available there. I lead the project and own data preparation.
+A mobile web app for Tanzania's flood season. A user shares their location and gets the nearest health facility, the route by transport mode and the services available there. I lead the project and own data preparation. Presented at IHI's 70th Anniversary Scientific Conference (November 2026).
 
 [PWA · routing · health facility data]{.tags}
 :::

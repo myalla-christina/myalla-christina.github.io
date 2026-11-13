@@ -29,3 +29,7 @@ Kreniske J, Ruselu G, Kaji A, Samwel H, **Myalla C**, Liseki E, Kwiolecha E, Des
 - NIMR Annual Joint Scientific Conference, 2026
 - 2nd Primary Health Care Congress, 2026
 :::
+
+::: {.pub}
+WapiCare: a nearest health facility finder for Tanzania's flood season. Presented by **Myalla C** in the MAP session, IHI 70th Anniversary & 5th Ifakara Annual Scientific Conference, Dar es Salaam, November 2026.
+:::

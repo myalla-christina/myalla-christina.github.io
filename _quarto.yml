@@ -20,6 +20,8 @@ website:
         text: Experience
       - href: teaching.qmd
         text: Teaching & Service
+      - href: gallery.qmd
+        text: Gallery
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/christina-myalla-bb707094

@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://myalla-christina.github.io/index.html</loc>
-    <lastmod>2026-11-13T07:44:05.521Z</lastmod>
+    <loc>https://myalla-christina.github.io/gallery.html</loc>
+    <lastmod>2026-11-13T07:55:37.459Z</lastmod>
   </url>
   <url>
-    <loc>https://myalla-christina.github.io/teaching.html</loc>
-    <lastmod>2026-11-13T07:46:15.446Z</lastmod>
+    <loc>https://myalla-christina.github.io/publications.html</loc>
+    <lastmod>2026-11-13T07:55:37.459Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myalla-christina.github.io/projects.html</loc>
+    <lastmod>2026-11-13T07:55:37.459Z</lastmod>
   </url>
   <url>
     <loc>https://myalla-christina.github.io/experience.html</loc>
     <lastmod>2026-11-13T07:38:09.762Z</lastmod>
   </url>
   <url>
-    <loc>https://myalla-christina.github.io/projects.html</loc>
-    <lastmod>2026-11-13T07:44:05.523Z</lastmod>
+    <loc>https://myalla-christina.github.io/teaching.html</loc>
+    <lastmod>2026-11-13T07:55:37.458Z</lastmod>
   </url>
   <url>
-    <loc>https://myalla-christina.github.io/publications.html</loc>
-    <lastmod>2026-11-13T07:28:09.584Z</lastmod>
+    <loc>https://myalla-christina.github.io/index.html</loc>
+    <lastmod>2026-11-13T07:44:05.521Z</lastmod>
   </url>
 </urlset>

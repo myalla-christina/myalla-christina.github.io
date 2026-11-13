@@ -1,0 +1,11 @@
+---
+title: "Gallery"
+subtitle: "Moments from conferences, trainings and events"
+---
+
+::: {.gallery-item}
+![](images/ihi70-panel-2026.jpg){fig-alt="Christina Myalla speaking on a panel, shown on the large screen at IHI's 70th anniversary conference"}
+
+**Panel: "The Voice of Scientists for the Next 70 Years"**\
+IHI 70th Anniversary & 5th Ifakara Annual Scientific Conference, APC Conference Centre, Dar es Salaam, 12 November 2026
+:::
