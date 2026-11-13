@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/
 
 website:
   title: "Christina Myalla"
@@ -27,6 +29,8 @@ website:
         aria-label: GitHub
       - text: "ORCID"
         href: https://orcid.org/0009-0005-3917-7203
+      - text: "CV"
+        href: files/Christina_Myalla_CV.pdf
   page-footer:
     center: "© 2026 Christina Myalla · Dar es Salaam, Tanzania"
 

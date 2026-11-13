@@ -79,6 +79,8 @@ Three training dashboards (Mozambique, Angola, Benin) that walk programme staff 
 
 A standardised, open-access Quarto portal summarising malaria epidemiology, environmental and entomological data for 11 African countries. Researchers submit data through GitHub, and automated workflows rebuild the site.
 
+[Visit the portal](https://map-data-engineering.github.io/COUNTRIES-PROFILES/)
+
 [Quarto · GitHub Actions · R]{.tags}
 :::
 
