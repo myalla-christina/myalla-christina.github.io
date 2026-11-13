@@ -16,3 +16,10 @@ IHI 70th Anniversary & 5th Ifakara Annual Scientific Conference, APC Conference 
 **With Prof. Fredros Okumu and IHI colleagues**\
 A privilege to spend time with Prof. Okumu, IHI's Director of Science, whose passion for science and impact on malaria research continue to inspire me. IHI 70th Anniversary & 5th Ifakara Annual Scientific Conference, APC Conference Centre, Dar es Salaam, 10 November 2026
 :::
+
+::: {.gallery-item}
+![](images/tatem-2026.jpg){fig-alt="Video call between Christina Myalla and Prof. Andy Tatem"}
+
+**Conversation with Prof. Andy Tatem**\
+Honoured to speak with Prof. Andy Tatem (WorldPop, University of Southampton), a leader in spatial demography and population mapping for global health. Online, 5 November 2026
+:::
