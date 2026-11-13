@@ -10,6 +10,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/christina-myalla-bb707094
+    - icon: github
+      text: GitHub
+      href: https://github.com/myalla-christina
     - text: ORCID
       href: https://orcid.org/0009-0005-3917-7203
     - icon: envelope
@@ -21,7 +24,7 @@ I am a Research Data Scientist at the **Malaria Atlas Project (MAP) East Africa 
 
 My work turns messy, multi-source health data into spatial evidence that health programmes can act on. I build reproducible pipelines that harmonise health facility data across sub-Saharan Africa, model how long it takes people to reach care, and measure how climate hazards such as floods disrupt that access. I then package the results as dashboards and portals for National Malaria Control Programmes.
 
-Before MAP, I spent over a decade managing data for clinical trials and cohort studies in Tanzania, including household GPS data collection, multi-country trial databases and data quality systems.
+Before MAP, I spent nearly a decade managing data for clinical trials and cohort studies in Tanzania, including household GPS data collection, multi-country trial databases and data quality systems.
 
 ## Research interests
 

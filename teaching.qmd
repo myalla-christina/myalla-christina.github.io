@@ -5,7 +5,7 @@ title: "Teaching & Service"
 ## Teaching and capacity building
 
 **Coordinator, Geospatial Modelling for Public Health Applications Workshop** (MAP, 2024 to present)\
-An annual workshop on spatial modelling with INLA, now in its third cohort, drawing hundreds of applicants and participants from over seven African countries. I also built the reproducible selection pipeline used to choose each cohort.
+An annual workshop on spatial modelling with INLA, now in its third cohort, drawing over 170 applicants and participants from over seven African countries. I also built the reproducible selection pipeline used to choose each cohort.
 
 **Instructor, MAP Early Career Researcher Programme**\
 Teach data management and functional programming in R in MAP's six-month programme.

@@ -29,8 +29,8 @@ subtitle: "Over 10 years in health research data across Tanzania and sub-Saharan
 :::
 
 ::: {.role}
-### Research Scientist Intern, SHLC Project
-[Ifakara Health Institute · Dar es Salaam · 2021 to 2022]{.meta}
+### Research Scientist Intern, SHLC Project (concurrent)
+[Ifakara Health Institute · Dar es Salaam · 2021 to 2022, alongside the MUHAS role]{.meta}
 
 - Analysed regional non-communicable disease trends in R and Stata; built Tableau visualisations and co-authored reports.
 :::

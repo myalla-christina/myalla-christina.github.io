@@ -22,7 +22,7 @@ How much longer does it take to reach a health facility when rivers flood? I com
 
 #### Travel-time and accessibility modelling across Africa
 
-Applying MAP's travel-time framework to model access to health facilities in Nigeria, Uganda, Burkina Faso and Tanzania. I built an R Shiny interface so non-programmers can run the pipeline, and the outputs have informed community health worker distribution and facility planning.
+Applying MAP's travel-time framework to model access to health facilities in Tanzania, Nigeria, Uganda, Burkina Faso, Zambia and Angola. I built an R Shiny interface so non-programmers can run the pipeline, and the outputs have informed community health worker distribution and facility planning.
 
 [R Shiny · friction surfaces · Google Earth Engine]{.tags}
 :::
